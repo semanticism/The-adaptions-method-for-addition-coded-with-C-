@@ -1,4 +1,4 @@
-# The-adaptions-method-for-addition-coded-with-C++
+# The adaptions method for addition coded with C++
 ------
 
 
