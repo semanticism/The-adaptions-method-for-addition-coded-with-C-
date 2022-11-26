@@ -20,3 +20,5 @@ Now we've got to convert that into something that can be converted in binary, so
 (1,0,0)
 
 Conclusion: 1+11BIN=100BIN
+
+While implementation2 is more optimized I've included both for research pourposes, perhaps Minecraft redstoners could convert
