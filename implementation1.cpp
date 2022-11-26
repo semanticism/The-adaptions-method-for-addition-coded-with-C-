@@ -98,8 +98,8 @@ int checkarrays(){ //This checks if the adapted vector and the initial vector ar
 }
 int main(){
 	add();
-	while(checkarrays()){ /*You could try to use alllegal() instead of checking if there's no effect is seen when applying the function
-		setl();       and delete this line but that doesn't work in my computer so I'm not sure */
+	while(checkarrays()){ //You could try to use alllegal() instead of checking if there's no effect is seen when applying the function
+		setl();       //and delete this line but that doesn't work in my computer so I'm not sure
 		adjust();
 	}
 	debugarray();
