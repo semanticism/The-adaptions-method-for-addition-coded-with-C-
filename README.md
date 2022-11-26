@@ -24,4 +24,4 @@ Now we've got to convert that into something that can be converted in binary, so
 
 Conclusion: 1+11BIN=100BIN
 
-While implementation 2 is more optimized I've included both for research pourposes, perhaps for example, Minecraft redstoners could convert this to a Minecraft circuit and software engineers working for other platforms could translate this code to their plataform and people could make an algorithm with a more generalized pourpose using a part of what I wrote.
+While implementation 2 is more optimized I've included both for research pourposes, perhaps for example, Minecraft redstoners could convert this to a Minecraft circuit and software engineers working for other platforms could translate this code to their plataform and people could make an algorithm with a more generalized pourpose based on a part of what I wrote.
