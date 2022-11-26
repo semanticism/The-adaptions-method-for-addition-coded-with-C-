@@ -5,7 +5,7 @@
 
 
 It's a method that works like this:
-We represent any number representation in a base with vectors like this: X\*100+Y\*10+Z -> (X,Y,Z) (the below vectors for example are symbols for representations in the second radix)
+We represent any number representation in a base with vectors like this: X\*100+Y\*10+Z -> (X,Y,Z) (the below vectors for example are symbols for representations in the base 2)
 (0,0,1)
 
 (0,1,1)
