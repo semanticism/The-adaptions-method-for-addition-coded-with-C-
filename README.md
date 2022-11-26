@@ -26,4 +26,4 @@ Conclusion: 1+11BIN=100BIN
 
 While implementation 2 is more optimized I've included both for research pourposes, perhaps for example, Minecraft redstoners could convert this to a Minecraft circuit and software engineers working for other platforms could translate this code to their plataform and people could make an algorithm with a more generalized pourpose based on a part of what I wrote.
 
-I called it the adaptions method because it uses adapts one or multiple times.
+I called it the adaptions method because it uses illiterated adaptation.
