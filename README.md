@@ -24,4 +24,4 @@ Now we've got to convert that into something that can be converted in binary, so
 
 Conclusion: 1+11BIN=100BIN
 
-Immplementation 2 is more optimized
+Immplementation 2 is more optimized, instead of dectecting change, it sees if what is in all of the digit plaaces is legal
